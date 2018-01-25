@@ -1,0 +1,5 @@
+D:\Manik\Practice\GetServerName\GetServerName\bin\Debug\GetServerName.exe
+D:\Manik\Practice\GetServerName\GetServerName\bin\Debug\GetServerName.pdb
+D:\Manik\Practice\GetServerName\GetServerName\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Manik\Practice\GetServerName\GetServerName\obj\x86\Debug\GetServerName.exe
+D:\Manik\Practice\GetServerName\GetServerName\obj\x86\Debug\GetServerName.pdb

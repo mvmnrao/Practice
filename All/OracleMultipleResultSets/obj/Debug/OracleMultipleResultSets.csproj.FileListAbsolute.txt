@@ -1,0 +1,5 @@
+E:\Manik\Practice\OracleMultipleResultSets\obj\Debug\ResolveAssemblyReference.cache
+E:\Manik\Practice\OracleMultipleResultSets\bin\Debug\OracleMultipleResultSets.exe
+E:\Manik\Practice\OracleMultipleResultSets\bin\Debug\OracleMultipleResultSets.pdb
+E:\Manik\Practice\OracleMultipleResultSets\obj\Debug\OracleMultipleResultSets.exe
+E:\Manik\Practice\OracleMultipleResultSets\obj\Debug\OracleMultipleResultSets.pdb

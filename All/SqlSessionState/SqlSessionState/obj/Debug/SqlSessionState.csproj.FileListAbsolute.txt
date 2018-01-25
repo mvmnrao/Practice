@@ -1,0 +1,5 @@
+D:\Manik\Practice\SqlSessionState\SqlSessionState\bin\SqlSessionState.dll
+D:\Manik\Practice\SqlSessionState\SqlSessionState\bin\SqlSessionState.pdb
+D:\Manik\Practice\SqlSessionState\SqlSessionState\obj\Debug\ResolveAssemblyReference.cache
+D:\Manik\Practice\SqlSessionState\SqlSessionState\obj\Debug\SqlSessionState.dll
+D:\Manik\Practice\SqlSessionState\SqlSessionState\obj\Debug\SqlSessionState.pdb

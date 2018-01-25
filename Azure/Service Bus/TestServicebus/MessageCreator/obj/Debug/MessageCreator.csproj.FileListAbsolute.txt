@@ -1,0 +1,8 @@
+D:\Manik\Practice\Azure\Service Bus\TestServicebus\MessageCreator\bin\Debug\MessageCreator.exe.config
+D:\Manik\Practice\Azure\Service Bus\TestServicebus\MessageCreator\bin\Debug\MessageCreator.exe
+D:\Manik\Practice\Azure\Service Bus\TestServicebus\MessageCreator\bin\Debug\MessageCreator.pdb
+D:\Manik\Practice\Azure\Service Bus\TestServicebus\MessageCreator\obj\Debug\MessageCreator.csprojResolveAssemblyReference.cache
+D:\Manik\Practice\Azure\Service Bus\TestServicebus\MessageCreator\obj\Debug\MessageCreator.exe
+D:\Manik\Practice\Azure\Service Bus\TestServicebus\MessageCreator\obj\Debug\MessageCreator.pdb
+D:\Manik\Practice\Azure\Service Bus\TestServicebus\MessageCreator\bin\Debug\Microsoft.ServiceBus.dll
+D:\Manik\Practice\Azure\Service Bus\TestServicebus\MessageCreator\bin\Debug\Microsoft.ServiceBus.xml

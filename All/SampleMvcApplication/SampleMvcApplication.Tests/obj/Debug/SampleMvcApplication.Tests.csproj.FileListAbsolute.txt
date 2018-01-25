@@ -1,0 +1,8 @@
+D:\Manik\Practice\SampleMvcApplication\SampleMvcApplication.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Manik\Practice\SampleMvcApplication\SampleMvcApplication.Tests\bin\Debug\SampleMvcApplication.Tests.dll.config
+D:\Manik\Practice\SampleMvcApplication\SampleMvcApplication.Tests\bin\Debug\SampleMvcApplication.Tests.dll
+D:\Manik\Practice\SampleMvcApplication\SampleMvcApplication.Tests\bin\Debug\SampleMvcApplication.Tests.pdb
+D:\Manik\Practice\SampleMvcApplication\SampleMvcApplication.Tests\bin\Debug\SampleMvcApplication.dll
+D:\Manik\Practice\SampleMvcApplication\SampleMvcApplication.Tests\bin\Debug\SampleMvcApplication.pdb
+D:\Manik\Practice\SampleMvcApplication\SampleMvcApplication.Tests\obj\Debug\SampleMvcApplication.Tests.dll
+D:\Manik\Practice\SampleMvcApplication\SampleMvcApplication.Tests\obj\Debug\SampleMvcApplication.Tests.pdb

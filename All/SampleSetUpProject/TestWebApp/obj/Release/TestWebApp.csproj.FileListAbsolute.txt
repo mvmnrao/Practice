@@ -1,0 +1,5 @@
+D:\Manik\Practice\SampleSetUpProject\TestWebApp\bin\TestWebApp.dll
+D:\Manik\Practice\SampleSetUpProject\TestWebApp\bin\TestWebApp.pdb
+D:\Manik\Practice\SampleSetUpProject\TestWebApp\obj\Release\ResolveAssemblyReference.cache
+D:\Manik\Practice\SampleSetUpProject\TestWebApp\obj\Release\TestWebApp.dll
+D:\Manik\Practice\SampleSetUpProject\TestWebApp\obj\Release\TestWebApp.pdb

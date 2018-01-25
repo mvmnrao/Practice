@@ -1,0 +1,5 @@
+D:\Manik\Practice\JQueryPractice\JQueryPractice\bin\JQueryPractice.dll
+D:\Manik\Practice\JQueryPractice\JQueryPractice\bin\JQueryPractice.pdb
+D:\Manik\Practice\JQueryPractice\JQueryPractice\obj\Debug\ResolveAssemblyReference.cache
+D:\Manik\Practice\JQueryPractice\JQueryPractice\obj\Debug\JQueryPractice.dll
+D:\Manik\Practice\JQueryPractice\JQueryPractice\obj\Debug\JQueryPractice.pdb

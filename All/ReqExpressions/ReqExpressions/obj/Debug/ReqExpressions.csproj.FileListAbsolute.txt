@@ -1,0 +1,5 @@
+D:\Manik\Practice\ReqExpressions\ReqExpressions\bin\ReqExpressions.dll
+D:\Manik\Practice\ReqExpressions\ReqExpressions\bin\ReqExpressions.pdb
+D:\Manik\Practice\ReqExpressions\ReqExpressions\obj\Debug\ResolveAssemblyReference.cache
+D:\Manik\Practice\ReqExpressions\ReqExpressions\obj\Debug\ReqExpressions.dll
+D:\Manik\Practice\ReqExpressions\ReqExpressions\obj\Debug\ReqExpressions.pdb

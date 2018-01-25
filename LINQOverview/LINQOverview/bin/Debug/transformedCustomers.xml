@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Londoners>
+  <Contact ID="CONSH">
+    <City>London</City>
+  </Contact>
+  <Contact ID="EASTC">
+    <City>London</City>
+  </Contact>
+  <Contact ID="NORTS">
+    <City>London</City>
+  </Contact>
+</Londoners>

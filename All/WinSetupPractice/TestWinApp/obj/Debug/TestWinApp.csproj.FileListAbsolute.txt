@@ -1,0 +1,8 @@
+D:\Manik\Practice\WinSetupPractice\TestWinApp\bin\Debug\TestWinApp.exe
+D:\Manik\Practice\WinSetupPractice\TestWinApp\bin\Debug\TestWinApp.pdb
+D:\Manik\Practice\WinSetupPractice\TestWinApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Manik\Practice\WinSetupPractice\TestWinApp\obj\Debug\TestWinApp.Form1.resources
+D:\Manik\Practice\WinSetupPractice\TestWinApp\obj\Debug\TestWinApp.Properties.Resources.resources
+D:\Manik\Practice\WinSetupPractice\TestWinApp\obj\Debug\TestWinApp.csproj.GenerateResource.Cache
+D:\Manik\Practice\WinSetupPractice\TestWinApp\obj\Debug\TestWinApp.exe
+D:\Manik\Practice\WinSetupPractice\TestWinApp\obj\Debug\TestWinApp.pdb

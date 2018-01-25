@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWinApp", "TestWinApp\TestWinApp.csproj", "{BC2E0646-C4B4-46BD-B1DC-B3622F9E805A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WinSetUpProj", "WinSetUpProj\WinSetUpProj.vdproj", "{201C7FB0-554B-49AD-B81E-B4149315054C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC2E0646-C4B4-46BD-B1DC-B3622F9E805A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2E0646-C4B4-46BD-B1DC-B3622F9E805A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2E0646-C4B4-46BD-B1DC-B3622F9E805A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2E0646-C4B4-46BD-B1DC-B3622F9E805A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{201C7FB0-554B-49AD-B81E-B4149315054C}.Debug|Any CPU.ActiveCfg = Debug
+		{201C7FB0-554B-49AD-B81E-B4149315054C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

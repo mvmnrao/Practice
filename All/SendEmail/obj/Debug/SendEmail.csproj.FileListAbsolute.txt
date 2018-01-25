@@ -1,0 +1,8 @@
+E:\Manik\Practice\SendEmail\obj\Debug\ResolveAssemblyReference.cache
+E:\Manik\Practice\SendEmail\bin\Debug\SendEmail.exe.config
+E:\Manik\Practice\SendEmail\bin\Debug\SendEmail.exe
+E:\Manik\Practice\SendEmail\bin\Debug\SendEmail.pdb
+E:\Manik\Practice\SendEmail\bin\Debug\aspNetEmail.dll
+E:\Manik\Practice\SendEmail\bin\Debug\OracleHelperClass.dll
+E:\Manik\Practice\SendEmail\obj\Debug\SendEmail.exe
+E:\Manik\Practice\SendEmail\obj\Debug\SendEmail.pdb

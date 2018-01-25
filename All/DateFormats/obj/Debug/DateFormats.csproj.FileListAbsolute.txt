@@ -1,0 +1,10 @@
+E:\Manik\Practice\DateFormats\bin\Debug\DateFormats.exe
+E:\Manik\Practice\DateFormats\bin\Debug\DateFormats.pdb
+E:\Manik\Practice\DateFormats\obj\Debug\ResolveAssemblyReference.cache
+E:\Manik\Practice\DateFormats\obj\Debug\DateFormats.exe
+E:\Manik\Practice\DateFormats\obj\Debug\DateFormats.pdb
+D:\Manik\Practice\DateFormats\obj\Debug\DateFormats.exe
+D:\Manik\Practice\DateFormats\obj\Debug\DateFormats.pdb
+D:\Manik\Practice\DateFormats\bin\Debug\DateFormats.exe
+D:\Manik\Practice\DateFormats\bin\Debug\DateFormats.pdb
+D:\Manik\Practice\DateFormats\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Manik\Practice\Interview\Questions\bin\Debug\Questions.exe.config
+D:\Manik\Practice\Interview\Questions\bin\Debug\Questions.exe
+D:\Manik\Practice\Interview\Questions\bin\Debug\Questions.pdb
+D:\Manik\Practice\Interview\Questions\obj\Debug\Questions.csprojResolveAssemblyReference.cache
+D:\Manik\Practice\Interview\Questions\obj\Debug\Questions.csproj.CoreCompileInputs.cache
+D:\Manik\Practice\Interview\Questions\obj\Debug\Questions.exe
+D:\Manik\Practice\Interview\Questions\obj\Debug\Questions.pdb

@@ -1,0 +1,7 @@
+D:\Manik\Practice\LINQOverview\LINQOverview\obj\Debug\ResolveAssemblyReference.cache
+D:\Manik\Practice\LINQOverview\LINQOverview\bin\Debug\LINQOverview.exe
+D:\Manik\Practice\LINQOverview\LINQOverview\bin\Debug\LINQOverview.pdb
+D:\Manik\Practice\LINQOverview\LINQOverview\obj\Debug\LINQOverview.exe
+D:\Manik\Practice\LINQOverview\LINQOverview\obj\Debug\LINQOverview.pdb
+D:\Manik\Practice\LINQOverview\LINQOverview\bin\Debug\Customers.xml
+D:\Manik\Practice\LINQOverview\LINQOverview\bin\Debug\CustomersOne.xml

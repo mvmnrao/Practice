@@ -1,0 +1,8 @@
+D:\Manik\Practice\Azure\Service Bus\TestServicebus\MessageConsumer\bin\Debug\MessageConsumer.exe.config
+D:\Manik\Practice\Azure\Service Bus\TestServicebus\MessageConsumer\bin\Debug\MessageConsumer.exe
+D:\Manik\Practice\Azure\Service Bus\TestServicebus\MessageConsumer\bin\Debug\MessageConsumer.pdb
+D:\Manik\Practice\Azure\Service Bus\TestServicebus\MessageConsumer\obj\Debug\MessageConsumer.csprojResolveAssemblyReference.cache
+D:\Manik\Practice\Azure\Service Bus\TestServicebus\MessageConsumer\obj\Debug\MessageConsumer.exe
+D:\Manik\Practice\Azure\Service Bus\TestServicebus\MessageConsumer\obj\Debug\MessageConsumer.pdb
+D:\Manik\Practice\Azure\Service Bus\TestServicebus\MessageConsumer\bin\Debug\Microsoft.ServiceBus.dll
+D:\Manik\Practice\Azure\Service Bus\TestServicebus\MessageConsumer\bin\Debug\Microsoft.ServiceBus.xml

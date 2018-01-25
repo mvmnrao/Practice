@@ -1,0 +1,5 @@
+E:\Manik\Practice\LinqSamples\bin\LinqSamples.dll
+E:\Manik\Practice\LinqSamples\bin\LinqSamples.pdb
+E:\Manik\Practice\LinqSamples\obj\Debug\ResolveAssemblyReference.cache
+E:\Manik\Practice\LinqSamples\obj\Debug\LinqSamples.dll
+E:\Manik\Practice\LinqSamples\obj\Debug\LinqSamples.pdb

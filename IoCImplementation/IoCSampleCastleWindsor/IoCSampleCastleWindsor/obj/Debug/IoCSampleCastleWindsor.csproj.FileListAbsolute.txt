@@ -1,0 +1,10 @@
+D:\Manik\Practice\IoCImplementation\IoCSampleCastleWindsor\IoCSampleCastleWindsor\bin\Debug\IoCSampleCastleWindsor.exe.config
+D:\Manik\Practice\IoCImplementation\IoCSampleCastleWindsor\IoCSampleCastleWindsor\bin\Debug\IoCSampleCastleWindsor.exe
+D:\Manik\Practice\IoCImplementation\IoCSampleCastleWindsor\IoCSampleCastleWindsor\bin\Debug\IoCSampleCastleWindsor.pdb
+D:\Manik\Practice\IoCImplementation\IoCSampleCastleWindsor\IoCSampleCastleWindsor\obj\Debug\IoCSampleCastleWindsor.csprojResolveAssemblyReference.cache
+D:\Manik\Practice\IoCImplementation\IoCSampleCastleWindsor\IoCSampleCastleWindsor\obj\Debug\IoCSampleCastleWindsor.exe
+D:\Manik\Practice\IoCImplementation\IoCSampleCastleWindsor\IoCSampleCastleWindsor\obj\Debug\IoCSampleCastleWindsor.pdb
+D:\Manik\Practice\IoCImplementation\IoCSampleCastleWindsor\IoCSampleCastleWindsor\bin\Debug\Castle.Core.dll
+D:\Manik\Practice\IoCImplementation\IoCSampleCastleWindsor\IoCSampleCastleWindsor\bin\Debug\Castle.Windsor.dll
+D:\Manik\Practice\IoCImplementation\IoCSampleCastleWindsor\IoCSampleCastleWindsor\bin\Debug\Castle.Core.xml
+D:\Manik\Practice\IoCImplementation\IoCSampleCastleWindsor\IoCSampleCastleWindsor\bin\Debug\Castle.Windsor.xml

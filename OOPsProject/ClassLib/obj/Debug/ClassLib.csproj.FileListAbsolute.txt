@@ -1,0 +1,5 @@
+D:\Manik\Practice\OOPsProject\ClassLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Manik\Practice\OOPsProject\ClassLib\bin\Debug\ClassLib.dll
+D:\Manik\Practice\OOPsProject\ClassLib\bin\Debug\ClassLib.pdb
+D:\Manik\Practice\OOPsProject\ClassLib\obj\Debug\ClassLib.dll
+D:\Manik\Practice\OOPsProject\ClassLib\obj\Debug\ClassLib.pdb

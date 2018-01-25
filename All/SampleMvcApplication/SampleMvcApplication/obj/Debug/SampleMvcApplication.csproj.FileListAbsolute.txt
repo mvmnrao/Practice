@@ -1,0 +1,5 @@
+D:\Manik\Practice\SampleMvcApplication\SampleMvcApplication\bin\SampleMvcApplication.dll
+D:\Manik\Practice\SampleMvcApplication\SampleMvcApplication\bin\SampleMvcApplication.pdb
+D:\Manik\Practice\SampleMvcApplication\SampleMvcApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\Manik\Practice\SampleMvcApplication\SampleMvcApplication\obj\Debug\SampleMvcApplication.dll
+D:\Manik\Practice\SampleMvcApplication\SampleMvcApplication\obj\Debug\SampleMvcApplication.pdb

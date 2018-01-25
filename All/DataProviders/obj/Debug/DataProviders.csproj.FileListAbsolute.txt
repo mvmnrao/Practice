@@ -1,0 +1,5 @@
+E:\Manik\Practice\DataProviders\bin\DataProviders.dll
+E:\Manik\Practice\DataProviders\bin\DataProviders.pdb
+E:\Manik\Practice\DataProviders\obj\Debug\ResolveAssemblyReference.cache
+E:\Manik\Practice\DataProviders\obj\Debug\DataProviders.dll
+E:\Manik\Practice\DataProviders\obj\Debug\DataProviders.pdb

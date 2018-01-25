@@ -1,0 +1,5 @@
+D:\Manik\Practice\Preparation\Preparation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Manik\Practice\Preparation\Preparation\bin\Debug\Preparation.exe
+D:\Manik\Practice\Preparation\Preparation\bin\Debug\Preparation.pdb
+D:\Manik\Practice\Preparation\Preparation\obj\x86\Debug\Preparation.exe
+D:\Manik\Practice\Preparation\Preparation\obj\x86\Debug\Preparation.pdb

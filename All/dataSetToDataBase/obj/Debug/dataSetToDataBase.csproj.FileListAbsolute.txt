@@ -1,0 +1,8 @@
+E:\Manik\Practice\dataSetToDataBase\bin\Debug\dataSetToDataBase.exe.config
+E:\Manik\Practice\dataSetToDataBase\bin\Debug\dataSetToDataBase.exe
+E:\Manik\Practice\dataSetToDataBase\bin\Debug\dataSetToDataBase.pdb
+E:\Manik\Practice\dataSetToDataBase\bin\Debug\CryptoStatic.dll
+E:\Manik\Practice\dataSetToDataBase\bin\Debug\OracleHelperClass.dll
+E:\Manik\Practice\dataSetToDataBase\obj\Debug\ResolveAssemblyReference.cache
+E:\Manik\Practice\dataSetToDataBase\obj\Debug\dataSetToDataBase.exe
+E:\Manik\Practice\dataSetToDataBase\obj\Debug\dataSetToDataBase.pdb

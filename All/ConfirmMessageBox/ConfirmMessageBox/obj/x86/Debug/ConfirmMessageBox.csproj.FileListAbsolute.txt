@@ -1,0 +1,9 @@
+D:\Manik\Practice\ConfirmMessageBox\ConfirmMessageBox\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Manik\Practice\ConfirmMessageBox\ConfirmMessageBox\obj\x86\Debug\ConfirmMessageBox.Form1.resources
+D:\Manik\Practice\ConfirmMessageBox\ConfirmMessageBox\obj\x86\Debug\ConfirmMessageBox.Properties.Resources.resources
+D:\Manik\Practice\ConfirmMessageBox\ConfirmMessageBox\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Manik\Practice\ConfirmMessageBox\ConfirmMessageBox\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Manik\Practice\ConfirmMessageBox\ConfirmMessageBox\bin\Debug\ConfirmMessageBox.exe
+D:\Manik\Practice\ConfirmMessageBox\ConfirmMessageBox\bin\Debug\ConfirmMessageBox.pdb
+D:\Manik\Practice\ConfirmMessageBox\ConfirmMessageBox\obj\x86\Debug\ConfirmMessageBox.exe
+D:\Manik\Practice\ConfirmMessageBox\ConfirmMessageBox\obj\x86\Debug\ConfirmMessageBox.pdb
